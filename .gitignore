@@ -1,0 +1,5 @@
+data/
+.DS_Store
+.python-version
+*/__pycache__
+image_forgery_detection.egg-info
